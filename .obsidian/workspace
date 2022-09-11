@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "b05ef48321690799",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b68ed908456dfac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ответы боту/Что такое PWA.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "435f98b3015ddf54",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3134ae127638de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe72f3b25ce9ff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59d2c65f1ea9d9ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cac0e91b07318409",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12d5ccd2fe7d7f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fbf9ae52d6d001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87adbd809a186ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ответы боту/Что такое PWA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9554b8af861d3bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ответы боту/Что такое PWA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f96761db1db499aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45c96ee778fb2dce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ответы боту/Что такое PWA.md"
+              }
+            }
+          },
+          {
+            "id": "22061e8d42f9f331",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.1705322265625,
+    "collapsed": true
+  },
+  "active": "2b68ed908456dfac",
+  "lastOpenFiles": [
+    "React/Библиотеки/mateiral-ui.md",
+    "React/Библиотеки/react-router-dom-v6.md",
+    "React/Props.md",
+    "React/React-component.md",
+    "React/Хуки/useReducer().md",
+    "React/React.md",
+    "React/Хуки/useRef().md",
+    "_Resources/Pasted image 20220911091307.png",
+    "React/Хуки/useMemo().md",
+    "_Resources/Pasted image 20220827145409.png"
+  ]
+}
