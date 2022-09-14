@@ -1,3 +1,4 @@
+[[it-incubator]]
 **React** - это библиотека т.к нужно доустанавливать [Роутинг](https://learn-reactjs.ru/training-project/routing "Подробнее про Routing"), [Редакс](https://medium.com/devschacht/redux-step-by-step-e6c42a9b00cd "Подробнее про Redux")  и т.д по выбору.
 
 **Angular** - фреймворк, т.к дополнительно устанавливать ничего не требуется.

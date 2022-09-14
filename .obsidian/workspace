@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b68ed908456dfac",
+        "id": "5aa910d483f1b8e1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ответы боту/Что такое PWA.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ответы боту/Что такое PWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ответы боту/Что такое PWA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ответы боту/Что такое PWA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,17 +129,17 @@
     "width": 302.1705322265625,
     "collapsed": true
   },
-  "active": "2b68ed908456dfac",
+  "active": "0fe72f3b25ce9ff7",
   "lastOpenFiles": [
-    "React/Библиотеки/mateiral-ui.md",
-    "React/Библиотеки/react-router-dom-v6.md",
-    "React/Props.md",
-    "React/React-component.md",
-    "React/Хуки/useReducer().md",
+    "it-incubator.md",
+    "Ответы боту/Что такое и зачем нужна самовызывающаяся функцияБез названия.md",
     "React/React.md",
-    "React/Хуки/useRef().md",
-    "_Resources/Pasted image 20220911091307.png",
-    "React/Хуки/useMemo().md",
-    "_Resources/Pasted image 20220827145409.png"
+    "NativeJS/NATIVE JS.md",
+    "Термины/Термины.md",
+    "Путь самурая/Samurai way.md",
+    "Ответы боту/Ответы боту.md",
+    "NativeJS/it-incubator.md",
+    "Ответы боту/Что означает буква O в аббревиатуре SOLID.md",
+    "Ответы боту/Что означает буква S в аббревиатуре SOLID.md"
   ]
 }
