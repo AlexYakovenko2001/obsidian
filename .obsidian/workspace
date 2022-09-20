@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa910d483f1b8e1",
+        "id": "38d83f657c7bea16",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -129,17 +129,17 @@
     "width": 302.1705322265625,
     "collapsed": true
   },
-  "active": "0fe72f3b25ce9ff7",
+  "active": "38d83f657c7bea16",
   "lastOpenFiles": [
-    "it-incubator.md",
-    "Ответы боту/Что такое и зачем нужна самовызывающаяся функцияБез названия.md",
-    "React/React.md",
-    "NativeJS/NATIVE JS.md",
-    "Термины/Термины.md",
-    "Путь самурая/Samurai way.md",
-    "Ответы боту/Ответы боту.md",
-    "NativeJS/it-incubator.md",
-    "Ответы боту/Что означает буква O в аббревиатуре SOLID.md",
-    "Ответы боту/Что означает буква S в аббревиатуре SOLID.md"
+    "Путь самурая/26. Cтруктура проекта, ещё раз про ui - bll.md",
+    "Путь самурая/25. Метод массива map.md",
+    "Ответы боту/Кто такой Babel и что он делает.md",
+    "Путь самурая/24. UI - BLL, выносим данные в сторону.md",
+    "Путь самурая/22. Route exact.md",
+    "React/Библиотеки/react-router-dom-v6.md",
+    "test-driven development.md",
+    "Путь самурая/BLL&&UI.md",
+    "Путь самурая/23. Props для Диалогов.md",
+    "Путь самурая/19. Route, browser-router, маршрутизация.md"
   ]
 }
