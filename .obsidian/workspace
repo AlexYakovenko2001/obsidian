@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38d83f657c7bea16",
+        "id": "ae7230b30857d35c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md"
+              }
             }
           },
           {
@@ -129,17 +138,17 @@
     "width": 302.1705322265625,
     "collapsed": true
   },
-  "active": "38d83f657c7bea16",
+  "active": "ae7230b30857d35c",
   "lastOpenFiles": [
-    "Путь самурая/26. Cтруктура проекта, ещё раз про ui - bll.md",
-    "Путь самурая/25. Метод массива map.md",
-    "Ответы боту/Кто такой Babel и что он делает.md",
-    "Путь самурая/24. UI - BLL, выносим данные в сторону.md",
-    "Путь самурая/22. Route exact.md",
-    "React/Библиотеки/react-router-dom-v6.md",
-    "test-driven development.md",
-    "Путь самурая/BLL&&UI.md",
-    "Путь самурая/23. Props для Диалогов.md",
-    "Путь самурая/19. Route, browser-router, маршрутизация.md"
+    "Путь самурая/33. Добавление поста на стену.md",
+    "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md",
+    "Ответы боту/Ответы боту.md",
+    "Ответы боту/Что делает функция eval и почему она неклёвая.md",
+    "Ответы боту/Отличие event.target vs event.currentTarget.md",
+    "Путь самурая/32. Прокидываем callback через props.md",
+    "Путь самурая/31.  onClick, ref, VirtualDOM.md",
+    "Ответы боту/Что такое рекурсия.md",
+    "React/Хуки/useRef().md",
+    "Путь самурая/29. Упаковываем данные в state.md"
   ]
 }
