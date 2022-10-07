@@ -7,13 +7,8 @@
         "id": "ae7230b30857d35c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Путь самурая/37.  Store, state, ООП, рефакторинг.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "терми",
-                "matchingCase": false,
+                "query": "reducer",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Путь самурая/37.  Store, state, ООП, рефакторинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Путь самурая/37.  Store, state, ООП, рефакторинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Путь самурая/37.  Store, state, ООП, рефакторинг.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,15 +131,15 @@
   },
   "active": "ae7230b30857d35c",
   "lastOpenFiles": [
+    "Путь самурая/38. Dispatch и action.md",
+    "Ответы боту/Что такое компиляция и транспиляция.md",
+    "React/Хуки/useReducer().md",
+    "Путь самурая/37.  Store, state, ООП, рефакторинг.md",
     "Ответы боту/Что такое unit-тест Какие ещё тесты бывают.md",
     "Путь самурая/36. Про ООП поверхностно (зачем нам объекты).md",
     "Термины/Термины.md",
     "Путь самурая/35. Callback, subscribe, observer.md",
     "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md",
-    "Путь самурая/33. Добавление поста на стену.md",
-    "Ответы боту/Ответы боту.md",
-    "Ответы боту/Что делает функция eval и почему она неклёвая.md",
-    "Ответы боту/Отличие event.target vs event.currentTarget.md",
-    "Путь самурая/32. Прокидываем callback через props.md"
+    "Путь самурая/33. Добавление поста на стену.md"
   ]
 }
