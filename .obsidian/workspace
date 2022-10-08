@@ -7,8 +7,13 @@
         "id": "ae7230b30857d35c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Путь самурая/39. Action creator, action type.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Путь самурая/39. Action creator, action type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Путь самурая/39. Action creator, action type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Путь самурая/39. Action creator, action type.md"
+              }
             }
           },
           {
@@ -132,6 +141,7 @@
   "active": "ae7230b30857d35c",
   "lastOpenFiles": [
     "Путь самурая/38. Dispatch и action.md",
+    "Путь самурая/39. Action creator, action type.md",
     "Ответы боту/Что такое компиляция и транспиляция.md",
     "React/Хуки/useReducer().md",
     "Путь самурая/37.  Store, state, ООП, рефакторинг.md",
@@ -139,7 +149,6 @@
     "Путь самурая/36. Про ООП поверхностно (зачем нам объекты).md",
     "Термины/Термины.md",
     "Путь самурая/35. Callback, subscribe, observer.md",
-    "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md",
-    "Путь самурая/33. Добавление поста на стену.md"
+    "Путь самурая/34. Вынос мозга (FLUX-круговорот на каждый символ).md"
   ]
 }
